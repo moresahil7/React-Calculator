@@ -1,4 +1,4 @@
-<h2>Built a fully functional Calculator🧮 using React Js⚛️.</h2> <br>
+<div><h2>Built a fully functional Calculator🧮 using React Js⚛️.</h2> </div>
 <h3>Can checkout the live site <a href="https://reactcalculator-moresahil7.netlify.app/">here</a>.</h3>
 
 
