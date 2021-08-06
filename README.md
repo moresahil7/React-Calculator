@@ -3,5 +3,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/82169025/128450180-4179be2b-c4bc-480a-a1e0-63b8fdc61a4f.png)
+![image](https://user-images.githubusercontent.com/82169025/128450471-b7d50f5a-40e7-4777-a8b9-7c70da66e311.png)
+
 Leave a Star <a href="https://github.com/moresahil7/React-Calculator/" style="text-decoration:none">⭐</a> if you like it.
